@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@400;700&family=Poppins:wght@400;600;700&display=swap");
+.navTitle {
+  font-size: 27px;
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+
+.navTitle2 {
+  font-size: 15px;
+  font-family: "Lato";
+  font-weight: 700;
+}
+
+.title {
+  font-size: 22px;
+  font-family: "Lato";
+  font-weight: 600;
+}
+
+.description {
+  font-size: 15px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  color: #535353;
+}
+
+.PtitleBold {
+  font-size: 12px;
+  font-weight: 700;
+  color: #535353;
+}
+
+.Ptitle {
+  font-size: 12px;
+  font-weight: 400;
+  color: #535353;
+}
+
+.FooterTitle {
+  font-size: 13px;
+  font-family: "Lato";
+  font-weight: 400;
+  color: #535353;
+}
+
+.txtB1 {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.spacing {
+  margin-left: 550px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,53 @@
+@import "_variables";
+
+.navTitle {
+    font-size: $font-size-27px;
+    font-family: $font-family-OpenSans;
+    font-weight: $font-weight-Bold;
+}
+
+.navTitle2 {
+    font-size: $font-size-15px;
+    font-family: $font-family-Lato;
+    font-weight: $font-weight-Bold;
+}
+
+.title {
+    font-size: $font-size-22px;
+    font-family: $font-family-Lato;
+    font-weight: $font-weight-SemiBold;
+}
+
+.description {
+    font-size: $font-size-15px;
+    font-family: $font-family-OpenSans;
+    font-weight: $font-weight-Regular;
+    color: $color-535353;
+}
+
+.PtitleBold {
+    font-size: $font-size-12px;
+    font-weight: $font-weight-Bold;
+    color: $color-535353;
+}
+.Ptitle {
+    font-size: $font-size-12px;
+    font-weight: $font-weight-Regular;
+    color: $color-535353;
+}
+
+.FooterTitle {
+    font-size: $font-size-13px;
+    font-family: $font-family-Lato;
+    font-weight: $font-weight-Regular;
+    color: $color-535353;
+}
+
+.txtB1 {
+    font-size: $font-size-13px;
+    font-weight: $font-weight-Bold;
+}
+
+.spacing {
+    margin-left: 550px;
+  }
